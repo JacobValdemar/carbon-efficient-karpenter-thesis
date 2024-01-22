@@ -17,7 +17,7 @@ If you use this master's thesis in your work, please cite it using the following
   author = {Andreasen, Jacob Valdemar},
   date = {2024-01-03},
   institution = {{Aarhus University}},
-  location = {{Aarhus}},
+  location = {{Aarhus, Denmark}},
   langid = {english},
   language = {en},
   url = {https://github.com/JacobValdemar/carbon-efficient-karpenter-thesis}
