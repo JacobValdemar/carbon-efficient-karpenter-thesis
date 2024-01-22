@@ -1,1 +1,13 @@
-
+cff-version: 1.2.0
+message: "If you use this work in your research, please cite it as below."
+title: "Carbon Efficient Karpenter: Optimizing Kubernetes Cluster Autoscaling for Carbon Efficiency"
+type: thesis
+authors:
+  - family-names: Andreasen
+    given-names: Jacob Valdemar
+date-released: 2024-01-03
+institution: Aarhus University
+location: Aarhus
+langid: english
+language: en
+url: "https://github.com/JacobValdemar/carbon-efficient-karpenter-thesis"
