@@ -1,4 +1,4 @@
-# Carbon Efficient Karpenter (Master's Thesis)
+# Carbon Efficient Karpenter (Master’s Thesis)
 [Carbon_Efficient_Karpenter.pdf](Carbon_Efficient_Karpenter.pdf)
 
 ## Abstract
