@@ -8,7 +8,7 @@ Data centers are responsible for 0.6% of global greenhouse gas emissions. To red
 Please share a link to this repository instead of sharing the pdf directly.
 
 ## Citing
-If you use this master's thesis in your work, please cite it using the following entry (from [CITATION.cff](CITATION.cff)). 
+If you use this master's thesis in your work, please cite it using the following entry.
 
 ```bib
 @thesis{andreasenCarbonEfficientKarpenter2024,
@@ -23,3 +23,4 @@ If you use this master's thesis in your work, please cite it using the following
   url = {https://github.com/JacobValdemar/carbon-efficient-karpenter-thesis}
 }
 ```
+> J. V. Andreasen, “Carbon Efficient Karpenter: Optimizing Kubernetes Cluster Autoscaling for Carbon Efficiency,” Aarhus University, Aarhus, Denmark, Jan. 3, 2024. [Online]. Available: https://github.com/JacobValdemar/carbon-efficient-karpenter-thesis
