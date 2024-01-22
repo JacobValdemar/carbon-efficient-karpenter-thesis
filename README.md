@@ -13,7 +13,7 @@ The software in this master’s thesis is available in two Git repositories at t
 Please share a link to this repository instead of sharing the pdf directly.
 
 ## Citing
-If you use this master's thesis in your work, please cite it using the following entry.
+If you use this master’s thesis in your work, please cite it using the following entry.
 
 ```bib
 @thesis{andreasenCarbonEfficientKarpenter2024,
